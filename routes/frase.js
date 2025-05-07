@@ -9,9 +9,9 @@ router.get('/', (req, res) => {
   const containerId = os.hostname();
   res.send(`
     <div style="text-align:center;">
-      <img src="\${imagen}" style="max-width:300px;" />
-      <p><strong>\${frase}</strong></p>
-      <p>Contenedor ID: \${containerId}</p>
+      <img src="${imagen}" style="max-width:300px;" />
+      <p><strong>${frase}</strong></p>
+      <p>Contenedor ID: ${containerId}</p>
     </div>
   `);
 });
