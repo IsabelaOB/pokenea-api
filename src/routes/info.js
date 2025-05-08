@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const pokeneas = require('../pokeneas/data');
+const pokeneas = require('../models/pokeneas');
 const os = require('os');
 
 router.get('/', (req, res) => {
