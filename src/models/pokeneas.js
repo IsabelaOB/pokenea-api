@@ -4,7 +4,7 @@ const pokeneas = [
     nombre: "Arepapuff",
     altura: 1.5,
     habilidad: "Sabor explosivo",
-    imagen: "https://your-bucket-name.s3.amazonaws.com/arepapuff.png",
+    imagen: "https://pokenea-images.s3.us-east-1.amazonaws.com/Arepapuff.jpeg",
     frase: "La vida es como una arepa: hay que voltearla con cuidado."
   },
   {
@@ -12,7 +12,7 @@ const pokeneas = [
     nombre: "Silleton",
     altura: 1.8,
     habilidad: "Carga cultural",
-    imagen: "https://your-bucket-name.s3.amazonaws.com/silleton.png",
+    imagen: "https://pokenea-images.s3.us-east-1.amazonaws.com/Silleton.jpeg",
     frase: "La cultura se lleva en la espalda, pero se siente en el corazón."
   },
   {
@@ -20,7 +20,7 @@ const pokeneas = [
     nombre: "Bandejón",
     altura: 1.7,
     habilidad: "Energía gastronómica",
-    imagen: "https://your-bucket-name.s3.amazonaws.com/bandejon.png",
+    imagen: "https://pokenea-images.s3.us-east-1.amazonaws.com/Bandej%C3%B3n.jpeg",
     frase: "No importa cuánto comas, sino con quién compartes la mesa."
   },
   {
@@ -28,7 +28,7 @@ const pokeneas = [
     nombre: "Orquiflor",
     altura: 0.8,
     habilidad: "Floración perpetua",
-    imagen: "https://your-bucket-name.s3.amazonaws.com/orquiflor.png",
+    imagen: "https://pokenea-images.s3.us-east-1.amazonaws.com/Orquiflor.jpeg",
     frase: "La belleza no está en ser admirado, sino en florecer donde te han plantado."
   },
   {
@@ -36,7 +36,7 @@ const pokeneas = [
     nombre: "Carrielito",
     altura: 1.2,
     habilidad: "Almacenamiento infinito",
-    imagen: "https://your-bucket-name.s3.amazonaws.com/carrielito.png",
+    imagen: "https://pokenea-images.s3.us-east-1.amazonaws.com/Carrielito.jpeg",
     frase: "Carga siempre contigo lo esencial: esperanza, valor y una buena historia."
   },
   {
@@ -44,7 +44,7 @@ const pokeneas = [
     nombre: "Guascarock",
     altura: 2.1,
     habilidad: "Melodía ancestral",
-    imagen: "https://your-bucket-name.s3.amazonaws.com/guascarock.png",
+    imagen: "https://pokenea-images.s3.us-east-1.amazonaws.com/Guascarock.jpeg",
     frase: "El ritmo de la vida se marca con la pasión del corazón."
   },
   {
@@ -52,7 +52,7 @@ const pokeneas = [
     nombre: "Cafetero",
     altura: 1.4,
     habilidad: "Energía matutina",
-    imagen: "https://your-bucket-name.s3.amazonaws.com/cafetero.png",
+    imagen: "https://pokenea-images.s3.us-east-1.amazonaws.com/Cafetero.jpeg",
     frase: "El verdadero sabor está en el esfuerzo que pones cada amanecer."
   },
   {
@@ -60,7 +60,7 @@ const pokeneas = [
     nombre: "Metrovan",
     altura: 2.5,
     habilidad: "Transporte rápido",
-    imagen: "https://your-bucket-name.s3.amazonaws.com/metrovan.png",
+    imagen: "https://pokenea-images.s3.us-east-1.amazonaws.com/Metrovan.jpeg",
     frase: "No importa la distancia, sino la calidad del viaje y la compañía."
   }
 ];
