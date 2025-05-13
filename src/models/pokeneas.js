@@ -5,7 +5,7 @@ const pokeneas = [
     altura: 1.5,
     habilidad: "Sabor explosivo",
     imagen: "https://pokenea-images.s3.us-east-1.amazonaws.com/Arepapuff.jpeg",
-    frase: "La vida es como una arepa: hay que voltearla con cuidado."
+    frase: "¿Me regala un tintico?."
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ const pokeneas = [
     altura: 1.8,
     habilidad: "Carga cultural",
     imagen: "https://pokenea-images.s3.us-east-1.amazonaws.com/Silleton.jpeg",
-    frase: "La cultura se lleva en la espalda, pero se siente en el corazón."
+    frase: "que hubo socio como es como sería"
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ const pokeneas = [
     altura: 1.7,
     habilidad: "Energía gastronómica",
     imagen: "https://pokenea-images.s3.us-east-1.amazonaws.com/Bandej%C3%B3n.jpeg",
-    frase: "No importa cuánto comas, sino con quién compartes la mesa."
+    frase: "tocó cancelar materia"
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ const pokeneas = [
     altura: 0.8,
     habilidad: "Floración perpetua",
     imagen: "https://pokenea-images.s3.us-east-1.amazonaws.com/Orquiflor.jpeg",
-    frase: "La belleza no está en ser admirado, sino en florecer donde te han plantado."
+    frase: "me mecatié toda la plata."
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ const pokeneas = [
     altura: 1.2,
     habilidad: "Almacenamiento infinito",
     imagen: "https://pokenea-images.s3.us-east-1.amazonaws.com/Carrielito.jpeg",
-    frase: "Carga siempre contigo lo esencial: esperanza, valor y una buena historia."
+    frase: "Que visaje."
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ const pokeneas = [
     altura: 2.1,
     habilidad: "Melodía ancestral",
     imagen: "https://pokenea-images.s3.us-east-1.amazonaws.com/Guascarock.jpeg",
-    frase: "El ritmo de la vida se marca con la pasión del corazón."
+    frase: "El bobo se preocupa el teso se parcha."
   },
   {
     id: 7,
